@@ -1,12 +1,12 @@
-# grade = 88
-# if grade >= 90:
-#     print("Excellent")
-# elif grade >= 80:
-#     print("very good")
-# elif grade >= 70:
-#     print("good")
-# else:
-#     print("not good")
+grade = 88
+if grade >= 90:
+    print("Excellent")
+elif grade >= 80:
+    print("very good")
+elif grade >= 70:
+    print("good")
+else:
+    print("not good")
     
     
   #  write a python script to determine the price of a movie based on age
@@ -27,20 +27,20 @@
 #.....................
     
 
-# price = 3000
+price = 3000
 
-# # Prompt the user to input their age
-# person = int(input("Please enter your age: "))
+# Prompt the user to input their age
+person = int(input("Please enter your age: "))
 
-# # Determine the discount or payment amount based on age
-# if person <= 13:
-#     print(price-1000)
-# elif person>13 and person<=18:
-#     print(price)
-# elif person>18 and person<=64:
-#     print(price+500)
-# else:
-#     print("Pays 5000")
+# Determine the discount or payment amount based on age
+if person <= 13:
+    print(price-1000)
+elif person>13 and person<=18:
+    print(price)
+elif person>18 and person<=64:
+    print(price+500)
+else:
+    print("Pays 5000")
 
 #..............................................................
 #...........................................................
@@ -57,17 +57,17 @@
 #example 3.1(list)
 
 
-# phones = ['iphone', 'samsung', 'itel', 'tecno']
-# for phone in phones:
-#     #print(phone)
-#     print(phones[0])
+phones = ['iphone', 'samsung', 'itel', 'tecno']
+for phone in phones:
+    #print(phone)
+    print(phones[0])
     
     
     
-#exercise
-# colors = ["sky blue", "yellow", "orange"]
-# for color in colors:
-#     print(color)
+exercise
+colors = ["sky blue", "yellow", "orange"]
+for color in colors:
+    print(color)
     
 
 count = 5
