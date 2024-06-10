@@ -64,7 +64,7 @@ for phone in phones:
     
     
     
-exercise
+#exercise
 colors = ["sky blue", "yellow", "orange"]
 for color in colors:
     print(color)
