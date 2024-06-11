@@ -6,13 +6,48 @@
 #Logical operator 
 # 
 #Membership operators
+
+
+
+
+
+
+
 #
 #bitwise operators
 #
 
 
 
+# 1. **Bitwise AND (`&`)**:
+#    - Performs a bitwise AND operation.
+#    - Example: `5 & 3` results in `1`
+#    - Explanation: `0101 & 0011` results in `0001` (in binary)
 
+# 2. **Bitwise OR (`|`)**:
+#    - Performs a bitwise OR operation.
+#    - Example: `5 | 3` results in `7`
+#    - Explanation: `0101 | 0011` results in `0111` (in binary)
+
+# 3. **Bitwise XOR (`^`)**:
+#    - Performs a bitwise XOR operation.
+#    - Example: `5 ^ 3` results in `6`
+#    - Explanation: `0101 ^ 0011` results in `0110` (in binary)
+
+# 4. **Bitwise NOT (`~`)**:
+#    - Performs a bitwise NOT operation (inverts all bits).
+#    - Example: `~5` results in `-6`
+#    - Explanation: `~0101` results in `1010` (in binary, with 2's complement representation)
+
+# 5. **Bitwise Left Shift (`<<`)**:
+#    - Shifts the bits of the first operand left by the number of positions specified by the second operand.
+#    - Example: `5 << 1` results in `10`
+#    - Explanation: `0101 << 1` results in `1010` (in binary)
+
+# 6. **Bitwise Right Shift (`>>`)**:
+#    - Shifts the bits of the first operand right by the number of positions specified by the second operand.
+#    - Example: `5 >> 1` results in `2`
+#    - Explanation: `0101 >> 1` results in `0010` (in binary)
 
 
 
