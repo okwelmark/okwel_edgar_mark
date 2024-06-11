@@ -9,23 +9,26 @@ else:
     print("not good")
     
     
-  #  write a python script to determine the price of a movie based on age
-  #person < 13, discount ==1000.
-  #person 13<= person<=18, pays full price
-  #otherwise, senior citizen pays 5000
+"""
+   write a python script to determine the price of a movie based on age
+  person < 13, discount ==1000.
+  person 13<= person<=18, pays full price
+  otherwise, senior citizen pays 5000
    
-# person = 12
-# if person < 13:
-#     print("the discount is 1000")
-# elif person>13 and person<18:
-#     print("pays full amount")
-# else:
-#     print("pays 5000")
-#..............................................................
-#...........................................................
-#............................................................
-#.....................
+person = 12
+if person < 13:
+    print("the discount is 1000")
+elif person>13 and person<18:
+    print("pays full amount")
+else:
+    print("pays 5000")
+..............................................................
+...........................................................
+............................................................
+.....................
     
+
+"""
 
 price = 3000
 
@@ -42,19 +45,21 @@ elif person>18 and person<=64:
 else:
     print("Pays 5000")
 
-#..............................................................
-#...........................................................
-#............................................................
-#...........................................................
-#example three 
-#loops (for, while)
-#we shalll see examples of..........
-#........list
-#........tuple
-#........dictionary
-#........set
-#........string
-#example 3.1(list)
+"""
+..............................................................
+...........................................................
+............................................................
+...........................................................
+example three 
+loops (for, while)
+we shalll see examples of..........
+........list
+........tuple
+........dictionary
+........set
+........string
+example 3.1(list)
+"""
 
 
 phones = ['iphone', 'samsung', 'itel', 'tecno']
