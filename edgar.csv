@@ -1,0 +1,9 @@
+ID,Name,Age,Salary,JoinDate
+1,John Doe,28,50000,2021-05-15
+2,Jane Smith,34,,2021-06-01
+3,Bob Johnson,45,75000,2021-07-20
+4,,30,60000,2021-08-10
+5,Alice Brown,27,48000,2021-09-12
+6,Charlie Davis,NaN,70000,NaN
+6,Charlie Davis,NaN,70000,NaN
+7,Eve White,22,52000,2021-10-01
